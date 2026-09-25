@@ -1,4 +1,3 @@
-const { log } = require('handlebars/runtime');
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
