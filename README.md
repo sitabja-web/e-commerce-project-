@@ -151,7 +151,7 @@ npm start
 Default admin login used in project notes:
 
 - Email: admin@shopnest.com
-- Password: admin123
+- Password: password123
 
 ## Notes
 
