@@ -1,0 +1,11 @@
+
+> backend@1.0.0 start
+> node server.js
+
+◇ injected env (8) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Cloud name: dmox0it74
+API key exists: true
+API secret exists: true
+Server running on port 5000
+mongo db connected successfulyy 
